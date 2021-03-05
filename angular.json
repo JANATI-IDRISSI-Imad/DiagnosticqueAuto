@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "DiagnosticqueAuto"
+  "defaultProject": "DiagnosticqueAuto",
+  "cli": {
+    "analytics": "f22a8403-dd16-46da-833e-1434eb8143b6"
+  }
 }
